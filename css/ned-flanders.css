@@ -25,12 +25,12 @@
 
 #ned-flanders .head .body
 {
-    background: #fbd800;
+    background: #fbd900;
 }
 
 #ned-flanders .head .head-main
 {
-    top: 58px;
+    top: 45px;
     left: 43px;
     width: 41px;
     height: 68px;
@@ -38,7 +38,7 @@
 
 #ned-flanders .head .hair
 {
-    background: #986a38;
+    background: #986f38;
 }
 
 #ned-flanders .head .hair-top
@@ -54,14 +54,14 @@
 
 #ned-flanders .head .hair-side
 {
-    top: 18px;
+    top: 90px;
     left: 68px;
     width: 35px;
     height: 91px;
     border-left: none;
-    -webkit-border-radius: 35% 50% 33% 50%/52% 51% 19% 43%;
-    -moz-border-radius: 35% 50% 33% 50%/52% 51% 19% 43%;
-    border-radius: 35% 50% 33% 50%/52% 51% 19% 43%;
+    -webkit-border-radius: 35% 50% 74% 50%/52% 51% 19% 43%;
+    -moz-border-radius: 35% 50% 33% 50%/86% 51% 19% 43%;
+    border-radius: 35% 50% 33% 50%/52% 51% 100% 43%;
 }
 
 #ned-flanders .head .hair-line
